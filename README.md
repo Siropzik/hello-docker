@@ -54,10 +54,12 @@ docker compose down
 ## Результат (скриншоты)
 
 **1 просмотр:**
-screenshot/This page has been viewed 1 times..png
+<img width="395" height="143" alt="This page has been viewed 1 times" src="https://github.com/user-attachments/assets/5739e8f6-cb09-49c3-a2ee-3c04dfcdb4cc" />
+
 
 **2 просмотра:**
-screenshot/This page has been viewed 2 times..png
+<img width="435" height="141" alt="This page has been viewed 2 times" src="https://github.com/user-attachments/assets/b67db5b8-ef4e-4cf6-a7d3-ad014da2785f" />
+
 
 ---
 
